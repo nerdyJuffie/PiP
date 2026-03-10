@@ -1,30 +1,25 @@
 ---
 abstract: |
-    In this demo, we demonstrate how Jupyter Book can be used to create and publish a content rich paper that includes 
-    interactive elements such as code cells, visualizations, and multimedia. We will walk through the process of setting 
-    up a Jupyter Book, adding content, and deploying the final product online.
+Op deze website neem ik je mee in de wereld van het programmeren in Python. Ik neem je stap voor stap aan de hand mee in het avontuur dat programmeren heet en de taal Python.
 ---
 
 # Introduction
 
-Jupyter Book has been rebuild from ground up using the MyST engine [@doi:10.25080/hwcj9957]. This allows to export content in multiple output formats including HTML, PDF and docx. In this paper we present an overview of the possibilities and demonstrate its working.
+In deze cursus programmeren in Python leer je de basisbeginselen van programmeren in Python 3.0 . Ik ga met jullie stap voor stap de wereld in van programmeren in Python.
 
-## Background
-Some background information about Jupyter Book and its features, like exporting to multiple formats as indicated in {numref}`fig-diagram`.
+## Inhoudsopgave
 
-```{figure} figures/diagram.*
-:label: fig-diagram
-:alt: Some figure
-
-Some figure
-```
-
-
-+++{"no-pdf":true}
-```{figure} figures/delft.*
-:label: fig-delft
-:alt: picture of the TUD
-
-A figure that is in the website but not in the PDF version.
-```
-+++
+1. Variabelen declareren, toekennen en printen
+2. User input, rekenen met variabelen
+3. Eenvoudig "leren rekenen" programma maken
+4. Strings en hun functies
+5. Afronden, machten en wortels
+6. To be or not to be ...Booleans
+7. Keuzes, keuzes, keuzes...ofwel if, elif, else
+8. Random variabelen, Steen papier schaar spelen tegen de computer
+7. In de herhaling vallen ... while-loops
+9. Nog meer herhaling ... for-loops
+10. Nog een keer in de herhaling ... do..while-loops
+11. Lijsten, lijsten, lijsten ...arrays
+12. Doe meer met lijsten ... array functies
+13. Wrap it all up... Alles komt tezamen
