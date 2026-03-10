@@ -1,5 +1,5 @@
 ---
-abstract: |
+abstract: 
 Op deze website neem ik je mee in de wereld van het programmeren in Python. Ik neem je stap voor stap aan de hand mee in het avontuur dat programmeren heet en de taal Python.
 ---
 
