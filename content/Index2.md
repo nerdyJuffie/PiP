@@ -1,5 +1,5 @@
 ---
-title: The TUD starterkit for open publishing with JupyterBook
+title: Programmeren in Python
 site:
   hide_outline: true
   hide_toc: true
@@ -8,7 +8,7 @@ site:
       
 numbering:
   title:
-    enabled: false
+    enabled: true
 
 no-update-date: true
 ---
